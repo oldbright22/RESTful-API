@@ -1,0 +1,29 @@
+{
+  "version": 2,
+  "dgSpecHash": "G6GkRRxYjNNT0rMtscLT5dBTWG1Pes317PU0jpl9lvnwYf2aFbQnim6roRMjZxX5kD+iVEFDs2ORJ2Ya7kIKyw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\btina\\source\\repos\\TestAPI\\LibraryTestAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\btina\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\7.0.4\\microsoft.aspnetcore.jsonpatch.7.0.4.nupkg.sha512",
+    "C:\\Users\\btina\\.nuget\\packages\\microsoft.codecoverage\\17.5.0\\microsoft.codecoverage.17.5.0.nupkg.sha512",
+    "C:\\Users\\btina\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\btina\\.nuget\\packages\\microsoft.extensions.apidescription.client\\3.0.0\\microsoft.extensions.apidescription.client.3.0.0.nupkg.sha512",
+    "C:\\Users\\btina\\.nuget\\packages\\microsoft.net.test.sdk\\17.5.0\\microsoft.net.test.sdk.17.5.0.nupkg.sha512",
+    "C:\\Users\\btina\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\btina\\.nuget\\packages\\microsoft.testplatform.objectmodel\\17.5.0\\microsoft.testplatform.objectmodel.17.5.0.nupkg.sha512",
+    "C:\\Users\\btina\\.nuget\\packages\\microsoft.testplatform.testhost\\17.5.0\\microsoft.testplatform.testhost.17.5.0.nupkg.sha512",
+    "C:\\Users\\btina\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\btina\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\btina\\.nuget\\packages\\nswag.apidescription.client\\13.0.5\\nswag.apidescription.client.13.0.5.nupkg.sha512",
+    "C:\\Users\\btina\\.nuget\\packages\\nswag.msbuild\\13.0.5\\nswag.msbuild.13.0.5.nupkg.sha512",
+    "C:\\Users\\btina\\.nuget\\packages\\nuget.frameworks\\5.11.0\\nuget.frameworks.5.11.0.nupkg.sha512",
+    "C:\\Users\\btina\\.nuget\\packages\\nunit\\3.13.3\\nunit.3.13.3.nupkg.sha512",
+    "C:\\Users\\btina\\.nuget\\packages\\nunit.analyzers\\3.6.1\\nunit.analyzers.3.6.1.nupkg.sha512",
+    "C:\\Users\\btina\\.nuget\\packages\\nunit3testadapter\\4.5.0-alpha.4\\nunit3testadapter.4.5.0-alpha.4.nupkg.sha512",
+    "C:\\Users\\btina\\.nuget\\packages\\restsharp\\110.0.0\\restsharp.110.0.0.nupkg.sha512",
+    "C:\\Users\\btina\\.nuget\\packages\\system.reflection.metadata\\1.6.0\\system.reflection.metadata.1.6.0.nupkg.sha512",
+    "C:\\Users\\btina\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
+    "C:\\Users\\btina\\.nuget\\packages\\system.text.json\\7.0.2\\system.text.json.7.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

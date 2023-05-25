@@ -1,0 +1,5 @@
+C:\Users\btina\source\repos\TestAPI\obj\Debug\netcoreapp3.1\LibraryTestAPI.csproj.AssemblyReference.cache
+C:\Users\btina\source\repos\TestAPI\obj\Debug\netcoreapp3.1\LibraryTestAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\btina\source\repos\TestAPI\obj\Debug\netcoreapp3.1\LibraryTestAPI.AssemblyInfoInputs.cache
+C:\Users\btina\source\repos\TestAPI\obj\Debug\netcoreapp3.1\LibraryTestAPI.AssemblyInfo.cs
+C:\Users\btina\source\repos\TestAPI\obj\Debug\netcoreapp3.1\LibraryTestAPI.csproj.CoreCompileInputs.cache

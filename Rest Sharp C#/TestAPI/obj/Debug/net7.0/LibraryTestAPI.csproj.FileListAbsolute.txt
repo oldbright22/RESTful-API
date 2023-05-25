@@ -1,0 +1,12 @@
+C:\Users\btina\source\repos\TestAPI\bin\Debug\net7.0\LibraryTestAPI.deps.json
+C:\Users\btina\source\repos\TestAPI\bin\Debug\net7.0\LibraryTestAPI.dll
+C:\Users\btina\source\repos\TestAPI\bin\Debug\net7.0\LibraryTestAPI.pdb
+C:\Users\btina\source\repos\TestAPI\obj\Debug\net7.0\LibraryTestAPI.csproj.AssemblyReference.cache
+C:\Users\btina\source\repos\TestAPI\obj\Debug\net7.0\LibraryTestAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\btina\source\repos\TestAPI\obj\Debug\net7.0\LibraryTestAPI.AssemblyInfoInputs.cache
+C:\Users\btina\source\repos\TestAPI\obj\Debug\net7.0\LibraryTestAPI.AssemblyInfo.cs
+C:\Users\btina\source\repos\TestAPI\obj\Debug\net7.0\LibraryTestAPI.csproj.CoreCompileInputs.cache
+C:\Users\btina\source\repos\TestAPI\obj\Debug\net7.0\LibraryTestAPI.dll
+C:\Users\btina\source\repos\TestAPI\obj\Debug\net7.0\refint\LibraryTestAPI.dll
+C:\Users\btina\source\repos\TestAPI\obj\Debug\net7.0\LibraryTestAPI.pdb
+C:\Users\btina\source\repos\TestAPI\obj\Debug\net7.0\ref\LibraryTestAPI.dll
